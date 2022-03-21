@@ -44,7 +44,4 @@ body {
     minmax(6rem, 1fr) [full-end];
 
   // test
-  & > * {
-    min-height: 50vh;
-  }
 }
